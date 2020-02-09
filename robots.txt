@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fechuxahy.hxpeng.com/sitemap.xml
